@@ -7,7 +7,7 @@ Me chamo Pedro Leal, tenho 25 anos, sou de São Paulo-SP e estou à procura de d
 ## 🎯 **Objetivo Profissional:**
 Meu objetivo é direcionar meu crescimento profissional para o campo do desenvolvimento de software, contribuindo para projetos inovadores e desafiadores. Estou empenhado em aprimorar minha expertise em automação e na utilização de APIs, acreditando que essas habilidades são fundamentais no cenário tecnológico atual.
 
-## 💻 **Prática Diária e Compromisso com o Aprendizado:**
+## 💻 **Prática diária e compromisso com o aprendizado:**
 Dedico tempo diariamente à prática de programação, acreditando que a consistência é a chave para o sucesso. Além disso, busco constantemente atualizações e aprendizado por meio de cursos, mantendo-me informado sobre as últimas tendências e tecnologias.
 
 - Meus estudos diários consistem em assistir aulas por cursos da Udemym, criar resumos com o chatGPT para revisão,  realizar desafios em lógica de programação na plataforma Codewars e desenvolver projetos no GitHub envolvendo Python, Java, SQL e outros.
