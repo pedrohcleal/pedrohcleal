@@ -46,5 +46,5 @@ Estou sempre aberto a novas oportunidades, colaborações e aprendizado contínu
 
 ![GitHub Status - Matrix Theme](https://github-readme-stats.vercel.app/api?username=pedrohcleal&show_icons=true&theme=matrix&title_color=00ff00&text_color=00ff00&icon_color=00ff00&bg_color=000000)]
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohcleal&layout=compact)
-![Codewars badges](https://www.codewars.com/users/pedrohcleal/badges/large)
+![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)![Codewars badges](https://www.codewars.com/users/pedrohcleal/badges/large)
 
