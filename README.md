@@ -40,7 +40,7 @@ Dedico tempo diariamente à prática de programação, acreditando que a consist
 ## 🌐 **Conecte-se comigo:**
 - 💼 [LinkedIn](https://www.linkedin.com/in/pedrohcleal/)
 - 👨‍💻 [CodeWars](https://www.codewars.com/users/pedrohcleal)
-- 📧 (pedroleal360@gmail.com)
+- 📧 [](pedroleal360@gmail.com)
 
 Estou sempre aberto a novas oportunidades, colaborações e aprendizado contínuo.
 
