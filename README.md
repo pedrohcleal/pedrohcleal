@@ -33,15 +33,15 @@ Dedico tempo diariamente à prática de programação, acreditando que a consist
   - Junções para Análise
 
 ## 🧑‍🎓 **Formação Acadêmica:** 
-- *Técnico em mecatrônica* - ETEC MLK - Concluído em Dez/2017
-- *Engenharia de computação* - USJT - Concluído em Jul/2024
-- *Análise e desenolvimento* de Sistemas - Estácio - Conclusão em Jul/2026
+- **Técnico em mecatrônica** - ETEC MLK - Concluído em Dez/2017
+- **Engenharia de computação** - USJT - Concluído em Jul/2024
+- **Análise e desenolvimento** de Sistemas - Estácio - Conclusão em Jul/2026
 
 ## 🌐 **Conecte-se comigo:**
 - [LinkedIn](https://www.linkedin.com/in/pedrohcleal/)
 - [CodeWars](https://www.codewars.com/users/pedrohcleal)
 
-Estou sempre aberto a novas oportunidades, colaborações e aprendizado contínuo. Vamos construir algo incrível juntos!
+Estou sempre aberto a novas oportunidades, colaborações e aprendizado contínuo.
 
 ![GitHub Status - Matrix Theme](https://github-readme-stats.vercel.app/api?username=pedrohcleal&show_icons=true&theme=matrix&title_color=00ff00&text_color=00ff00&icon_color=00ff00&bg_color=000000)]
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohcleal&layout=compact)
