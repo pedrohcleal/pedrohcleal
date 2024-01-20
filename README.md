@@ -38,8 +38,8 @@ Dedico tempo diariamente à prática de programação, acreditando que a consist
 - **Análise e Desenolvimento de Sistemas** - Estácio - Conclusão em Jul/2026
 
 ## 🌐 **Conecte-se comigo:**
-- [LinkedIn](https://www.linkedin.com/in/pedrohcleal/)
-- [CodeWars](https://www.codewars.com/users/pedrohcleal)
+- 💼 [LinkedIn](https://www.linkedin.com/in/pedrohcleal/)
+- 👨‍💻 [CodeWars](https://www.codewars.com/users/pedrohcleal)
 - 📧 Email: pedroleal360@gmail.com
 
 Estou sempre aberto a novas oportunidades, colaborações e aprendizado contínuo.
