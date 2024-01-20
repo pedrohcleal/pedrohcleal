@@ -10,8 +10,7 @@ Dedico tempo diariamente à prática de programação, acreditando que a consist
 
 - Meus estudos diários consistem em assistir aulas teóricas por cursos da Udemy, práticas de lógica de programação pelo Codewars e projetos no GitHub envolvendo Python, Java, SQL e outros.
 
-🛠️ **Habilidades Técnicas:**
-
+## 🛠️ **Habilidades Técnicas:**
 ### Linguagens de Programação:
 - **Python (Intermediário):**
   - Programação Orientada a Objetos (POO)
