@@ -1,26 +1,26 @@
-##🚀 **Bem-vindo ao meu Git!**
+## 🚀 **Bem-vindo ao meu Git!**
 
 Me chamo Pedro Leal e estou à procura de dar os primeiros passos na minha carreira como desenvolvedor. Minha paixão reside na melhoria constante das minhas habilidades, com foco especial no desenvolvimento back-end, principalmente em linguagens como Python e Java.
 
-##🎯 **Objetivo Profissional:**
+## 🎯 **Objetivo Profissional:**
 Meu objetivo é direcionar meu crescimento profissional para o campo do desenvolvimento de software, contribuindo para projetos inovadores e desafiadores. Estou empenhado em aprimorar minha expertise em automação e na utilização de APIs, acreditando que essas habilidades são fundamentais no cenário tecnológico atual.
 
-##💻 **Prática Diária e Compromisso com o Aprendizado:**
+## 💻 **Prática Diária e Compromisso com o Aprendizado:**
 Dedico tempo diariamente à prática de programação, acreditando que a consistência é a chave para o sucesso. Além disso, busco constantemente atualizações e aprendizado por meio de cursos, mantendo-me informado sobre as últimas tendências e tecnologias.
 
 - Meus estudos diários consistem em assistir aulas teóricas por cursos da Udemy, práticas de lógica de programação pelo Codewars e projetos no GitHub envolvendo Python, Java, SQL
 
-##📚 **Habilidades:**
+## 📚 **Habilidades:**
 - Linguagens: Python, Java, SQL (e outras em constante aprendizado).
 - Desenvolvimento Back-end.
 - Automação e Integração de APIs.
 
-##🧑‍🎓 **Formação Acadêmica:** 
+## 🧑‍🎓 **Formação Acadêmica:** 
 - *Técnico em mecatrônica* - ETEC MLK - Concluído em Dez/2017
 - *Engenharia de computação* - USJT - Concluído em Jul/2024
 - *Análise e desenolvimento* de Sistemas - Estácio - Conclusão em Jul/2026
 
-##🌐 **Conecte-se comigo:**
+## 🌐 **Conecte-se comigo:**
 - [LinkedIn](https://www.linkedin.com/in/pedrohcleal/)
 - [CodeWars](https://www.codewars.com/users/pedrohcleal)
 
