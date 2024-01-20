@@ -29,7 +29,7 @@ Dedico tempo diariamente à prática de programação, acreditando que a consist
 
 - **SQL (Básico):**
   - Consultas e Manipulação de Dados
-  - Criação de Tabelas
+  - Criação e exclusão de Tabelas
   - Junções para Análise
 
 ## 🧑‍🎓 **Formação Acadêmica:** 
@@ -40,7 +40,7 @@ Dedico tempo diariamente à prática de programação, acreditando que a consist
 ## 🌐 **Conecte-se comigo:**
 - 💼 [LinkedIn](https://www.linkedin.com/in/pedrohcleal/)
 - 👨‍💻 [CodeWars](https://www.codewars.com/users/pedrohcleal)
-- 📧 [Email](pedroleal360@gmail.com)
+- 📧 Email: pedroleal360@gmail.com
 
 Estou sempre aberto a novas oportunidades, colaborações e aprendizado contínuo.
 
