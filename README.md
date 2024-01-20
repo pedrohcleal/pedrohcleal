@@ -8,7 +8,7 @@ Meu objetivo é direcionar meu crescimento profissional para o campo do desenvol
 ## 💻 **Prática Diária e Compromisso com o Aprendizado:**
 Dedico tempo diariamente à prática de programação, acreditando que a consistência é a chave para o sucesso. Além disso, busco constantemente atualizações e aprendizado por meio de cursos, mantendo-me informado sobre as últimas tendências e tecnologias.
 
-- Meus estudos diários consistem em assistir aulas teóricas por cursos da Udemy, práticas de lógica de programação pelo Codewars e projetos no GitHub envolvendo Python, Java, SQL e outros.
+- Meus estudos diários consistem em assistir aulas por cursos da Udemym, criar resumos com o chatGPT para revisão,  realizar desafios em lógica de programação na plataforma Codewars e projetos no GitHub envolvendo Python, Java, SQL e outros.
 
 ## 🛠️ **Habilidades Técnicas:**
 ### Linguagens de Programação:
@@ -33,9 +33,9 @@ Dedico tempo diariamente à prática de programação, acreditando que a consist
   - Junções para Análise
 
 ## 🧑‍🎓 **Formação Acadêmica:** 
-- **Técnico em mecatrônica** - ETEC MLK - Concluído em Dez/2017
-- **Engenharia de computação** - USJT - Concluído em Jul/2024
-- **Análise e desenolvimento** de Sistemas - Estácio - Conclusão em Jul/2026
+- **Técnico em Mecatrônica** - ETEC MLK - Concluído em Dez/2017
+- **Engenharia de Computação** - USJT - Concluído em Jul/2024
+- **Análise e Desenolvimento de Sistemas** - Estácio - Conclusão em Jul/2026
 
 ## 🌐 **Conecte-se comigo:**
 - [LinkedIn](https://www.linkedin.com/in/pedrohcleal/)
