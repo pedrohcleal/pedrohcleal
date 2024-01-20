@@ -1,3 +1,4 @@
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ## 🚀 **Bem-vindo ao meu Git!**
 
 Me chamo Pedro Leal, tenho 25 anos, sou de São Paulo-SP e estou à procura de dar os primeiros passos na minha carreira como desenvolvedor. Minha paixão reside na melhoria constante das minhas habilidades, com foco especial no desenvolvimento back-end, principalmente em linguagens como Python e Java.
