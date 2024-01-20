@@ -8,7 +8,7 @@ Meu objetivo é direcionar meu crescimento profissional para o campo do desenvol
 ## 💻 **Prática Diária e Compromisso com o Aprendizado:**
 Dedico tempo diariamente à prática de programação, acreditando que a consistência é a chave para o sucesso. Além disso, busco constantemente atualizações e aprendizado por meio de cursos, mantendo-me informado sobre as últimas tendências e tecnologias.
 
-- Meus estudos diários consistem em assistir aulas teóricas por cursos da Udemy, práticas de lógica de programação pelo Codewars e projetos no GitHub envolvendo Python, Java, SQL
+- Meus estudos diários consistem em assistir aulas teóricas por cursos da Udemy, práticas de lógica de programação pelo Codewars e projetos no GitHub envolvendo Python, Java, SQL e outros.
 
 ## 📚 **Habilidades:**
 - Linguagens: Python, Java, SQL (e outras em constante aprendizado).
@@ -28,4 +28,5 @@ Estou sempre aberto a novas oportunidades, colaborações e aprendizado contínu
 
 ![GitHub Status - Matrix Theme](https://github-readme-stats.vercel.app/api?username=pedrohcleal&show_icons=true&theme=matrix&title_color=00ff00&text_color=00ff00&icon_color=00ff00&bg_color=000000)]
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohcleal&layout=compact)
+![Codewars badges](https://www.codewars.com/users/pedrohcleal/badges/large)
 
