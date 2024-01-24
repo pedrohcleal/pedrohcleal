@@ -18,7 +18,7 @@ Meu objetivo é direcionar meu crescimento profissional para o campo do desenvol
 ## 💻 **Prática diária e compromisso com o aprendizado:**
 Dedico tempo diariamente à prática de programação, acreditando que a consistência é a chave para o sucesso. Além disso, busco constantemente atualizações e aprendizado por meio de cursos, mantendo-me informado sobre as últimas tendências e tecnologias.
 
-- Meus estudos diários consistem em assistir aulas por cursos da Udemym, criar resumos com o chatGPT para revisão,  realizar desafios em lógica de programação na plataforma Codewars e desenvolver projetos no GitHub envolvendo Python, Java, SQL e outros.
+- Meus estudos diários consistem em assistir aulas por cursos da Udemy, criar resumos com o chatGPT para revisão,  realizar desafios em lógica de programação na plataforma Codewars e desenvolver projetos no GitHub envolvendo Python, Java, SQL e outros.
 
 ## 🛠️ **Habilidades Técnicas:**
 ### Linguagens de Programação:
