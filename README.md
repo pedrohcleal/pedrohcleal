@@ -20,28 +20,6 @@ Dedico tempo diariamente à prática de programação, acreditando que a consist
 
 - Meus estudos diários consistem em assistir aulas por cursos da Udemy, criar resumos com o chatGPT para revisão,  realizar desafios em lógica de programação na plataforma Codewars e desenvolver projetos no GitHub envolvendo Python, Java, SQL e outros.
 
-## 🛠️ **Habilidades Técnicas:**
-### Linguagens de Programação:
-- **Python (Intermediário):**
-  - Programação Orientada a Objetos (POO)
-  - Sintaxe e Estruturas de Controle
-  - Domínio em Lógica de Programação
-  - Manipulação de Dados e Criação de Funções
-  - Bibliotecas Essenciais como numpy
-  - Uso de APIs, JSON
-  - Frameworks: Django, Flask
-  - Testes: Unittest e TDD
-
-- **Java (Básico/Intermediário):**
-  - Sintaxe e Estruturas de Controle
-  - Experiência com JDBC e Java Swing
-  - Conceitos de Programação Orientada a Objetos (POO)
-
-- **SQL (Básico):**
-  - Consultas e Manipulação de Dados
-  - Criação e exclusão de Tabelas
-  - Junções para Análise
-
 ## 🧑‍🎓 **Formação Acadêmica:** 
 - **Técnico em Mecatrônica** - ETEC MLK - Concluído em Dez/2017
 - **Engenharia de Computação** - USJT - Concluído em Jul/2024
