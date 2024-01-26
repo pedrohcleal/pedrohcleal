@@ -23,7 +23,7 @@ Dedico tempo diariamente à prática de programação, acreditando que a consist
 ## 🧑‍🎓 **Formação Acadêmica:** 
 - **Técnico em Mecatrônica** - ETEC MLK - Concluído em Dez/2017
 - **Engenharia de Computação** - USJT - Concluído em Jul/2024
-- **Análise e Desenolvimento de Sistemas** - Estácio - Conclusão em Jul/2026
+- **Análise e Desenvolvimento de Sistemas** - Estácio - Conclusão em Jul/2026
 
 ## 🌐 **Conecte-se comigo:**
 - 💼 [LinkedIn](https://www.linkedin.com/in/pedrohcleal/)
