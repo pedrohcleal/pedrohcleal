@@ -2,11 +2,17 @@
 
 ## 🚀 **Bem-vindo(a)!**
 
-Olá! Sou um estagiário de desenvolvimento de software focado principalmente em NodeJS. Trabalho com linguagens como Python, JavaScript e Java, e estou começando a me aventurar na criação e uso de APIs, além de me familiarizar com a manipulação de dados JSON e a modelagem SQL.
+Sou um estagiário em desenvolvimento de software com foco em JavaScript/Node, mas também domino Python, Java e sou entusiasta em Rust.
+Tenho experiência inicial com a criação e utilização de APIs, manipulação de dados JSON e modelagem SQL. No meu perfil do GitHub, você encontra diversos projetos pessoais que desenvolvi, como:
 
-No meu perfil do GitHub, você encontrará uma variedade de projetos pessoais. Eles incluem desde aplicações para gerenciamento de bancos de dados com operações CRUD, até criação e consumo de APIs, scripts de automação, resumos de documentação e até mesmo um software desktop desenvolvido em Java.
+Aplicações para manipulação de banco de dados com operações CRUD;
+Criação e consumo de APIs;
+Scripts de automação;
+Resumos de documentação;
+Um software desktop desenvolvido em Java.
+Busco aprimorar minhas habilidades e colaborar em projetos desafiadores. 
 
-Estou sempre buscando aprender e expandir minhas habilidades, então sinta-se à vontade para explorar meus projetos e deixar seu feedback!
+Estou sempre buscando aprender e expandir minhas habilidades, então sinta-se à vontade para explorar meus projetos e deixar seu feedback!"
 
 ## 💻 **Prática diária e compromisso com o aprendizado:**
 Dedico tempo diariamente à prática de programação, acreditando que a consistência é a chave para o sucesso. Além disso, busco constantemente atualizações e aprendizado por meio de cursos, mantendo-me informado sobre as últimas tendências e tecnologias, procurando sempre me adaptar rapidamente.
