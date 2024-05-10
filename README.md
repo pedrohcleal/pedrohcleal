@@ -2,15 +2,18 @@
 
 ## 🚀 **Bem-vindo(a)!**
 
-Me chamo Pedro Leal, tenho 26 anos, sou de São Paulo-SP e sou estagiário em desevolvimento back-end. Minha paixão reside na melhoria constante das minhas habilidades, com foco especial no desenvolvimento back-end, principalmente em linguagens como Python, Java e JavaScript.
+Olá! Sou um estagiário de desenvolvimento de software focado principalmente em NodeJS. Trabalho com linguagens como Python, JavaScript e Java, e estou começando a me aventurar na criação e uso de APIs, além de me familiarizar com a manipulação de dados JSON e a modelagem SQL.
 
-## 🎯 **Objetivo Profissional:**
-Meu objetivo é direcionar meu crescimento profissional para o campo do desenvolvimento de software, contribuindo para projetos inovadores e desafiadores. Estou empenhado em aprimorar minha expertise em automação e na utilização de APIs, acreditando que essas habilidades são fundamentais no cenário tecnológico atual.
+No meu perfil do GitHub, você encontrará uma variedade de projetos pessoais. Eles incluem desde aplicações para gerenciamento de bancos de dados com operações CRUD, até criação e consumo de APIs, scripts de automação, resumos de documentação e até mesmo um software desktop desenvolvido em Java.
+
+Estou sempre buscando aprender e expandir minhas habilidades, então sinta-se à vontade para explorar meus projetos e deixar seu feedback!
+
+### +90 desafios de algoritmos resolvidos no Codewars - https://www.codewars.com/users/pedrohcleal
 
 ## 💻 **Prática diária e compromisso com o aprendizado:**
 Dedico tempo diariamente à prática de programação, acreditando que a consistência é a chave para o sucesso. Além disso, busco constantemente atualizações e aprendizado por meio de cursos, mantendo-me informado sobre as últimas tendências e tecnologias, procurando sempre me adaptar rapidamente.
 
-- Meus estudos diários consistem em assistir aulas por cursos da Udemy, criar resumos com o chatGPT para revisão,  realizar desafios de algoritmos em plataformas como Codewars/LeetCode e desenvolver projetos no GitHub envolvendo Python, Java, JavaScript.
+- Meus estudos diários consistem em assistir aulas por cursos da Udemy/Youtube, criar resumos com o chatGPT/Gemini para revisão, realizar desafios de algoritmos em plataformas como Codewars/LeetCode e desenvolver projetos no GitHub envolvendo Python, Java, JavaScript.
 
 ## 🧑‍🎓 **Formação Acadêmica:** 
 - **Técnico em Mecatrônica** - ETEC MLK - Concluído em Dez/2017
