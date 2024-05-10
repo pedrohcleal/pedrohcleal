@@ -5,11 +5,12 @@
 Estagiário em desenvolvimento de software com foco em JavaScript/Node, mas também domino Python, Java e sou entusiasta em Rust.
 Tenho experiência com a criação e utilização de APIs, manipulação de dados JSON e modelagem SQL. No meu perfil do GitHub, você encontra diversos projetos pessoais que desenvolvi, como:
 
-Aplicações para manipulação de banco de dados com operações CRUD;
-Criação e consumo de APIs;
-Scripts de automação;
-Resumos de documentação;
-Um software desktop desenvolvido em Java.
+- Aplicações para manipulação de banco de dados com operações CRUD
+- Criação e consumo de APIs
+- Scripts de automação
+- Resumos de documentação
+- Um software desktop desenvolvido em Java (BookHub)
+
 Busco aprimorar minhas habilidades e colaborar em projetos desafiadores. 
 
 Estou sempre buscando aprender e expandir minhas habilidades, então sinta-se à vontade para explorar meus projetos e deixar seu feedback!
