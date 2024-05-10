@@ -2,8 +2,8 @@
 
 ## 🚀 **Bem-vindo(a)!**
 
-Sou um estagiário em desenvolvimento de software com foco em JavaScript/Node, mas também domino Python, Java e sou entusiasta em Rust.
-Tenho experiência inicial com a criação e utilização de APIs, manipulação de dados JSON e modelagem SQL. No meu perfil do GitHub, você encontra diversos projetos pessoais que desenvolvi, como:
+Estagiário em desenvolvimento de software com foco em JavaScript/Node, mas também domino Python, Java e sou entusiasta em Rust.
+Tenho experiência com a criação e utilização de APIs, manipulação de dados JSON e modelagem SQL. No meu perfil do GitHub, você encontra diversos projetos pessoais que desenvolvi, como:
 
 Aplicações para manipulação de banco de dados com operações CRUD;
 Criação e consumo de APIs;
@@ -12,13 +12,13 @@ Resumos de documentação;
 Um software desktop desenvolvido em Java.
 Busco aprimorar minhas habilidades e colaborar em projetos desafiadores. 
 
-Estou sempre buscando aprender e expandir minhas habilidades, então sinta-se à vontade para explorar meus projetos e deixar seu feedback!"
+Estou sempre buscando aprender e expandir minhas habilidades, então sinta-se à vontade para explorar meus projetos e deixar seu feedback!
 
 ## 💻 **Prática diária e compromisso com o aprendizado:**
 Dedico tempo diariamente à prática de programação, acreditando que a consistência é a chave para o sucesso. Além disso, busco constantemente atualizações e aprendizado por meio de cursos, mantendo-me informado sobre as últimas tendências e tecnologias, procurando sempre me adaptar rapidamente.
 
 - Meus estudos diários consistem em assistir aulas por cursos da Udemy/Youtube, criar resumos com o chatGPT/Gemini para revisão, realizar desafios de algoritmos em plataformas como Codewars/LeetCode e desenvolver projetos no GitHub envolvendo Python, Java, JavaScript.
-- +100 desafios de algoritmos resolvidos no Codewars -> https://www.codewars.com/users/pedrohcleal
+- Tenho mais de +100 desafios de algoritmos resolvidos no Codewars -> https://www.codewars.com/users/pedrohcleal
 
 ## 🧑‍🎓 **Formação Acadêmica:** 
 - **Técnico em Mecatrônica** - ETEC MLK - Concluído em Dez/2017
