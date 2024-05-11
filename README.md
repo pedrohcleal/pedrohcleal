@@ -2,7 +2,7 @@
 
 ## 🚀 **Bem-vindo(a)!**
 
-Estagiário em desenvolvimento de software com foco em JavaScript/Node, mas também domino Python, Java e sou entusiasta em Rust.
+Atuando como Estagiário em Desenvolvimento de Software com foco em JavaScript/Node, mas também domino Python, Java e sou entusiasta em Rust.
 Tenho experiência com a criação e utilização de APIs, manipulação de dados JSON e modelagem SQL. No meu perfil do GitHub, você encontra diversos projetos pessoais que desenvolvi, como:
 
 - Aplicações para manipulação de banco de dados com operações CRUD
