@@ -2,25 +2,25 @@
 
 ### 🚀 **Bem-vindo!**
 
-Atuando como Estagiário em Desenvolvimento com foco em JavaScript/Node, mas também domino Python e sou entusiasta em Rust e Java.
-Tenho experiência com a criação e utilização de APIs, manipulação de dados JSON e modelagem SQL. No meu perfil do GitHub, você encontra diversos projetos pessoais que desenvolvi, como:
+Atuando como Estagiário em Desenvolvimento com foco em **JavaScript/Node**, mas também domino **Python** e sou entusiasta em **Rust** e **Java**.
+Tenho experiência com a criação e utilização de **APIs**, manipulação de dados **JSON** e modelagem **SQL**. No meu perfil do GitHub, você encontra diversos projetos pessoais que desenvolvi, como:
 
-- Aplicações para manipulação de banco de dados com operações CRUD
-- Criação e consumo de APIs
-- Scripts de automação
+- Aplicações para manipulação de banco de dados com operações **CRUD**
+- Criação e consumo de **APIs**
+- Scripts de **automação**
 - Resumos de documentação
 - Um software desktop desenvolvido em Java (BookHub)
 
 ### 💻 **Prática diária**
-Dedico tempo diariamente à prática de programação, acreditando que a consistência é a chave para o sucesso. Além disso, busco constantemente atualizações e aprendizado por meio de cursos, mantendo-me informado sobre as últimas tendências e tecnologias, procurando sempre me adaptar rapidamente.
 
-- Meus estudos diários consistem em assistir aulas por cursos da Udemy/Youtube, criar resumos com o chatGPT/Gemini para revisão, realizar desafios de algoritmos em plataformas como Codewars/LeetCode e desenvolver projetos no GitHub envolvendo Python, Java, JavaScript e Rust.
-- Tenho mais de +120 desafios de algoritmos resolvidos no Codewars e LeetCode
+Minha paixão por programação me leva a praticar diariamente, buscando sempre aprimorar minhas habilidades e me manter atualizado com as últimas tendências e tecnologias. 
+
+- Meus estudos diários consistem em assistir aulas por cursos da **Udemy/Youtube**, criar resumos com o **ChatGPT/Gemini** para revisão, realizar desafios de algoritmos em plataformas como **Codewars/LeetCode** e desenvolver projetos no GitHub envolvendo **Python, Java, JavaScript e Rust.**
+- Tenho mais de +120 desafios de algoritmos resolvidos no **Codewars** e **LeetCode**
 
 ### 🧑‍🎓 **Formação Acadêmica:** 
 - **Técnico em Mecatrônica** - ETEC MLK - Concluído em Dez/2017
 - **Engenharia de Computação** - USJT - Concluído em Jul/2024
-- **Análise e Desenvolvimento de Sistemas** - Estácio - Conclusão em Jul/2026
 
 Estou sempre aberto a novas oportunidades, colaborações e aprendizado contínuo.
 
