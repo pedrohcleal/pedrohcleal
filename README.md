@@ -15,20 +15,14 @@ Tenho experiência com a criação e utilização de APIs, manipulação de dado
 Dedico tempo diariamente à prática de programação, acreditando que a consistência é a chave para o sucesso. Além disso, busco constantemente atualizações e aprendizado por meio de cursos, mantendo-me informado sobre as últimas tendências e tecnologias, procurando sempre me adaptar rapidamente.
 
 - Meus estudos diários consistem em assistir aulas por cursos da Udemy/Youtube, criar resumos com o chatGPT/Gemini para revisão, realizar desafios de algoritmos em plataformas como Codewars/LeetCode e desenvolver projetos no GitHub envolvendo Python, Java, JavaScript e Rust.
-- Tenho mais de +100 desafios de algoritmos resolvidos no Codewars e LeetCode
+- Tenho mais de +120 desafios de algoritmos resolvidos no Codewars e LeetCode
 
 ### 🧑‍🎓 **Formação Acadêmica:** 
 - **Técnico em Mecatrônica** - ETEC MLK - Concluído em Dez/2017
 - **Engenharia de Computação** - USJT - Concluído em Jul/2024
 - **Análise e Desenvolvimento de Sistemas** - Estácio - Conclusão em Jul/2026
 
-### 🌐 **Conecte-se comigo:**
-- 💼 [LinkedIn](https://www.linkedin.com/in/pedrohcleal/)
-- 👨‍💻 [CodeWars](https://www.codewars.com/users/pedrohcleal)
-- 📧 Email: pedroleal360@gmail.com
-
 Estou sempre aberto a novas oportunidades, colaborações e aprendizado contínuo.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohcleal&layout=compact)
 ![Codewars](https://github.r2v.ch/codewars?user=pedrohcleal&name=true&top_languages=true&stroke=%23b362ff&theme=gradient_dark_by_level)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohcleal&layout=compact)
