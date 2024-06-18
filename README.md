@@ -23,4 +23,4 @@ Minha paixão por programação me leva a praticar diariamente, buscando sempre 
 - **Engenharia de Computação** - USJT - Concluído em Jul/2024
 
 Estou sempre aberto a novas oportunidades, colaborações e aprendizado contínuo.
-![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohcleal)
+![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohcleal&layout=compact)
