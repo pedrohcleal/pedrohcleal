@@ -24,5 +24,5 @@ Minha paixão por programação me leva a praticar diariamente, buscando sempre 
 
 Estou sempre aberto a novas oportunidades, colaborações e aprendizado contínuo.
 
-![Codewars](https://github.r2v.ch/codewars?user=pedrohcleal&name=true&top_languages=true&stroke=%23b362ff&theme=gradient_dark_by_level&hide_clan=true)
+![Codewars](![Codewars](https://github.r2v.ch/codewars?user=pedrohcleal&top_languages=true&hide_clan=true&theme=gradient)
 ![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohcleal&layout=compact)
