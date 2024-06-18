@@ -3,7 +3,7 @@
 
 ### 🚀 **Bem-vindo!**
 
-Atuando como Estagiário em Desenvolvimento com foco em **JavaScript/Node**, mas também domino **Python** e sou entusiasta em **Rust** e **Java**.
+Atuando como Estagiário em Desenvolvimento com foco em **JavaScript/Node**, tenho proficiência **Python** e sou entusiasta em **Rust** e **Java**.
 Tenho experiência com a criação e utilização de **APIs**, manipulação de dados **JSON** e modelagem **SQL**. No meu perfil do GitHub, você encontra diversos projetos pessoais que desenvolvi, como:
 
 - Aplicações para manipulação de banco de dados com operações **CRUD**
