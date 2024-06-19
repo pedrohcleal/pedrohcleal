@@ -16,7 +16,10 @@ Tenho experiência com a criação e utilização de **APIs**, manipulação de 
 
 Minha paixão por programação me leva a praticar diariamente, buscando sempre aprimorar minhas habilidades e me manter atualizado com as últimas tendências e tecnologias. 
 
-- Meus estudos diários consistem em assistir aulas por cursos da **Udemy/Youtube**, criar resumos com o **ChatGPT/Gemini** para revisão, realizar desafios de algoritmos em plataformas como **Codewars/LeetCode** e desenvolver projetos no GitHub envolvendo **Python, Java, JavaScript e Rust.**
+- Meus estudos diários consistem em assistir aulas por cursos da **Udemy/Youtube**
+- Criar resumos com o **ChatGPT/Gemini** para revisão
+- Realizar desafios de algoritmos em plataformas como **Codewars/LeetCode**
+- Desenvolver projetos no GitHub envolvendo **Python, Java, JavaScript e Rust.**
 - Tenho mais de +120 desafios de algoritmos resolvidos no **Codewars** e **LeetCode**
 
 ### 🧑‍🎓 **Formação Acadêmica:** 
