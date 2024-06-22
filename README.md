@@ -6,20 +6,20 @@
 Atuando como Estagiário em Desenvolvimento com foco em **JavaScript/Node**, tenho proficiência **Python** e sou entusiasta em **Rust** e **Java**.
 Tenho experiência com a criação e utilização de **APIs**, manipulação de dados **JSON** e modelagem **SQL**. No meu GitHub possuo diversos projetos pessoais que desenvolvi:
 
-- Aplicações para manipulação de banco de dados com operações **CRUD**
-- Criação e consumo de **APIs**
-- Scripts de **automação**
-- Resumos de documentação
+- Aplicações para manipulação de banco de dados com operações **CRUD**,
+- Criação e consumo de **APIs**,
+- Scripts de **automação**,
+- Resumos de documentação e
 - Um software desktop desenvolvido em Java (BookHub)
 
 ### 💻 **Prática diária**
 
 Minha paixão por programação me leva a praticar diariamente, buscando sempre aprimorar minhas habilidades e me manter atualizado com as últimas tendências e tecnologias. 
 
-- Meus estudos diários consistem em assistir aulas por cursos da **Udemy/Youtube**
-- Criar resumos com o **ChatGPT/Gemini** e leitura de documentações para revisão
-- Realizar desafios de algoritmos em plataformas como **Codewars/LeetCode**
-- Desenvolver projetos no GitHub envolvendo **Python, Java, JavaScript e Rust.**
+- Meus estudos diários consistem em assistir aulas por cursos da **Udemy/Youtube**,
+- Criar resumos com o **ChatGPT/Gemini** e ler documentações para revisão,
+- Realizar desafios de algoritmos em plataformas como **Codewars/LeetCode**,
+- Desenvolver projetos no GitHub envolvendo **Python, Java, JavaScript e Rust** e
 - Tenho mais de +140 desafios de algoritmos resolvidos no **Codewars** e **LeetCode**
 
 ### 🧑‍🎓 **Formação Acadêmica:** 
