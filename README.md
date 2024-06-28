@@ -18,9 +18,8 @@ Minha paixão por programação me leva a praticar diariamente, buscando sempre 
 
 - Meus estudos diários consistem em assistir aulas por cursos da **Udemy/Youtube**
 - Criar resumos com o **ChatGPT/Gemini** e ler documentações para revisão
-- Realizar desafios de algoritmos em plataformas como **Codewars/LeetCode**
+- Praticar algoritmos, tenho mais de +150 desafios resolvidos no **Codewars**/**LeetCode**
 - Desenvolver projetos no GitHub envolvendo **Python, Java, JavaScript e Rust**
-- Tenho mais de +140 desafios de algoritmos resolvidos no **Codewars** e **LeetCode**
 
 ### 🧑‍🎓 **Formação Acadêmica:** 
 - **Técnico em Mecatrônica** - ETEC MLK - Concluído em Dez/2017
