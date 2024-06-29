@@ -17,7 +17,7 @@ My daily studies include:
 - Watching courses on Udemy/YouTube
 - Creating summaries with ChatGPT/Gemini and reading documentation for review
 - Practicing algorithms, with over 150 challenges solved on Codewars/LeetCode
-- Developing projects on GitHub involving Python, Java, JavaScript, and Rust
+- Developing projects on GitHub involving Python, Java and Rust
 
 ### 🧑‍🎓 Academic Background:
 - Mechatronics Technician - ETEC MLK - Completed in Dec/2017
