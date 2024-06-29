@@ -2,7 +2,7 @@
 ![codewars](https://www.codewars.com/users/pedrohcleal/badges/small)![leetcode](https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fpedrohcleal&logo=leetcode&logoColor=yellow)
 
 ## 🚀 Welcome!
-As an Intern in Development focused on JavaScript/Node, I have proficiency in Python and am an enthusiast in Rust and Java. I have experience with creating and utilizing APIs, JSON data manipulation, and SQL modeling. Projects on my GitHub:
+Working as Backend Developer, I have proficiency in Python and am an enthusiast in Rust and Java. I have experience with creating and utilizing APIs, JSON data manipulation, and SQL modeling. Projects on my GitHub:
 
 - Database manipulation applications with CRUD operations
 - API creation and consumption
