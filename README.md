@@ -6,7 +6,7 @@ Working as Backend Developer, I have proficiency in Python and am an enthusiast 
 
 - Database manipulation applications with CRUD operations
 - API creation and consumption
-- Automation scripts
+- Automation scripts with Selenium, BeautifulSoup and bots
 - Documentation summaries
 - A desktop software developed in Java (BookHub)
 
