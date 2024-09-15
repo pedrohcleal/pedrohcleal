@@ -26,6 +26,6 @@ I’m dedicated to improving my skills through:
 
 Open to new opportunities and collaborations!
 
-**[My Github Page](https://pedrohcleal.github.io/)**
+**[My Github Page](https://pedrohcleal.github.io/)** | **[My Codewars Profile](https://www.codewars.com/users/pedrohcleal)** | **[My LeetCode Profile](https://leetcode.com/u/pedrohcleal/)**
 
 ![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohcleal&layout=compact)
