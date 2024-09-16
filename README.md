@@ -14,7 +14,7 @@ As a Backend Developer, I’m proficient in Python and passionate about Rust and
 
 I’m dedicated to improving my skills through:
 
-- Courses on Udemy/YouTube
+- Courses on Udemy/YouTube/Datacamp and others
 - Summarizing with ChatGPT/Gemini, reviewing documentation and reading books
 - Solving algorithm challenges (200+ on Codewars/LeetCode)
 - Developing projects in Python, Java, and Rust
