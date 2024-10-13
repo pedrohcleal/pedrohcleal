@@ -12,9 +12,11 @@
 ![codewars](https://www.codewars.com/users/pedrohcleal/badges/small)![leetcode](https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fpedrohcleal&logo=leetcode&logoColor=yellow)
 
 
-🚀 **Welcome!**
+🖖 **Welcome!** 
 
-As a Backend Developer, I’m proficient in Python and passionate about Java and Rust. My GitHub features:
+As a Backend Developer, i am currently working on the construction and maintenance of systems for managing investment funds at Sparta. 
+
+My GitHub features:
 
 - CRUD applications for database manipulation
 - API creation with FastAPI and Flask
@@ -30,6 +32,7 @@ I’m dedicated to improving my skills through:
 - Summarizing with ChatGPT/Gemini, reviewing documentation and reading books
 - Solving algorithm challenges (+300 resolved in Codewars/LeetCode)
 - Developing projects in Python, Java, and Rust
+- Currently studying front-end development with CSS, HTML, JS, TS and React
 
 🧑‍🎓 **Academic Background**
 
