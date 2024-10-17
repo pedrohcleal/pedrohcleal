@@ -4,12 +4,16 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-000000?style=flat&logo=flask&logoColor=white)
 ![Selenium](https://img.shields.io/badge/selenium-43B02A?style=flat&logo=selenium&logoColor=white)
+[![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-7D9EC2?style=flat&logoColor=white&logo=python)](https://www.crummy.com/software/BeautifulSoup/)
+[![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)](https://reactjs.org)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-07405e?style=flat&logo=sqlite&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)
 ![DBeaver](https://img.shields.io/badge/dbeaver-2C2C32?style=flat&logo=dbeaver&logoColor=white)
-![codewars](https://www.codewars.com/users/pedrohcleal/badges/small)![leetcode](https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fpedrohcleal&logo=leetcode&logoColor=yellow)
+[![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)](https://www.microsoft.com/en-us/sql-server)
+
+![codewars](https://www.codewars.com/users/pedrohcleal/badges/small)
+![leetcode](https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fpedrohcleal&logo=leetcode&logoColor=yellow)
 
 
 🖖 **Welcome!** 
