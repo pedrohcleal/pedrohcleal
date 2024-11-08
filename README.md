@@ -18,7 +18,7 @@
 
 🖖 **Welcome!** 
 
-I'm a Backend Developer focused on building and maintaining systems for managing investment funds at Sparta. My work involves leveraging Python and SQL to create efficient, scalable solutions for the financial sector.
+I'm a Backend Developer/Data Enginnering focused on building and maintaining systems for managing investment funds at Sparta. My work involves leveraging Python and SQL to create efficient, scalable solutions for the financial sector.
 
 My GitHub features:
 
