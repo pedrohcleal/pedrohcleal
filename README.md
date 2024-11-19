@@ -18,15 +18,28 @@
 
 🖖 **Welcome!** 
 
-I'm just a Backend Developer/Data Engineer focused on building and maintaining systems for managing investment funds at Sparta. My work involves leveraging Python and SQL to create efficient, scalable solutions for the financial sector.
+I'm a **Backend Developer/Data Engineer** with expertise in building and maintaining systems for managing investment funds. My work focuses on delivering robust, efficient, and scalable solutions for the financial sector. I specialize in Python and SQL, integrating advanced APIs and automating processes critical to data handling and validation.
 
-My GitHub features:
+**🛠️ Key Skills**
+- **Backend Development**:
+  - API development using **FastAPI**, **Flask**, and **Django**, adhering to **SOLID** principles and clean architecture.
+  - Expertise in **CRUD** operations and system optimization.
 
-- CRUD applications for database manipulation
-- API creation with FastAPI and Flask
-- Automation scripts with Selenium, BeautifulSoup, and bots
-- Documentation summaries
-- Java desktop software (BookHub)
+- **Data Engineering**:
+  - Advanced **SQL** for complex queries, database modeling, and performance tuning (PostgreSQL, SQL Server).
+  - ETL pipeline creation and data transformation scripts.
+
+- **Automation & Web Scraping**:
+  - Custom scripts with **Selenium**, **BeautifulSoup**, and other tools for process automation.
+  - Scheduling workflows with **Airflow** and task automation using DAGs.
+
+- **Integration**:
+  - Frontend-to-backend connectivity with **React** and **Redux** for seamless data flows.
+  - Implementation of data validation pipelines and entity models.
+
+- **Documentation & Code Review**:
+  - Detailed documentation for systems and workflows.
+  - Conducting **code reviews** to enforce best practices and improve team standards.
 
 💻 **Daily Practice**
 
