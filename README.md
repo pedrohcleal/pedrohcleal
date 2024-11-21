@@ -21,25 +21,11 @@
 I'm a **Backend Developer/Data Engineer** with expertise in building and maintaining systems for managing investment funds. My work focuses on delivering robust, efficient, and scalable solutions for the financial sector. I specialize in Python and SQL, integrating advanced APIs and automating processes critical to data handling and validation.
 
 **🛠️ Key Skills**
-- **Backend Development**:
-  - API development using **FastAPI**, **Flask**, and **Django**, adhering to **SOLID** principles and clean architecture.
-  - Expertise in **CRUD** operations and system optimization.
-
-- **Data Engineering**:
-  - Advanced **SQL** for complex queries, database modeling, and performance tuning (PostgreSQL, SQL Server).
-  - ETL pipeline creation and data transformation scripts.
-
-- **Automation & Web Scraping**:
-  - Custom scripts with **Selenium**, **BeautifulSoup**, and other tools for process automation.
-  - Scheduling workflows with **Airflow** and task automation using DAGs.
-
-- **Integration**:
-  - Frontend-to-backend connectivity with **React** and **Redux** for seamless data flows.
-  - Implementation of data validation pipelines and entity models.
-
-- **Documentation & Code Review**:
-  - Detailed documentation for systems and workflows.
-  - Conducting **code reviews** to enforce best practices and improve team standards.
+- **Backend Development**: API creation using FastAPI and Flask, following SOLID principles and applying best practices in clean architecture.
+- **Data Engineering**: Designing and optimizing SQL queries, modeling databases, and integrating complex financial data systems.
+- **Automation and Scraping**: Crafting automation scripts with Selenium and BeautifulSoup to streamline data extraction and processing.
+- **Data Validation and Processing**: Implementing ETL processes for fund management, ensuring data accuracy and compliance with financial standards.
+- **Code Quality**: Conducting code reviews and maintaining robust documentation for ongoing projects.
 
 💻 **Daily Practice**
 
