@@ -2,15 +2,13 @@
 ![Java](https://img.shields.io/badge/java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Rust](https://img.shields.io/badge/rust-000000?style=flat&logo=rust&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-000000?style=flat&logo=flask&logoColor=white)
 ![Selenium](https://img.shields.io/badge/selenium-43B02A?style=flat&logo=selenium&logoColor=white)
 [![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-7D9EC2?style=flat&logoColor=white&logo=python)](https://www.crummy.com/software/BeautifulSoup/)
-[![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)](https://reactjs.org)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-07405e?style=flat&logo=sqlite&logoColor=white)
-![DBeaver](https://img.shields.io/badge/dbeaver-2C2C32?style=flat&logo=dbeaver&logoColor=white)
 [![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)](https://www.microsoft.com/en-us/sql-server)
+![DBeaver](https://img.shields.io/badge/dbeaver-2C2C32?style=flat&logo=dbeaver&logoColor=white)
 
 ![codewars](https://www.codewars.com/users/pedrohcleal/badges/small)
 ![leetcode](https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fpedrohcleal&logo=leetcode&logoColor=yellow)
@@ -18,27 +16,20 @@
 
 🖖 **Welcome!** 
 
-I'm a **Backend Developer/Data Engineer** with expertise in building and maintaining systems for managing investment funds. My work focuses on delivering robust, efficient, and scalable solutions for the financial sector. I specialize in Python and SQL, integrating advanced APIs and automating processes critical to data handling and validation.
+My work focuses on delivering robust, efficient, and scalable solutions for the financial sector. I specialize in Python, integrating advanced APIs and automating processes critical to data handling and validation.
 
 **🛠️ Key Skills**
 - **Backend Development**: API creation using FastAPI and Flask, following SOLID principles and applying best practices in clean architecture.
 - **Data Engineering**: Designing and optimizing SQL queries, modeling databases, and integrating complex financial data systems.
 - **Automation and Scraping**: Crafting automation scripts with Selenium and BeautifulSoup to streamline data extraction and processing.
 - **Data Validation and Processing**: Implementing ETL processes for fund management, ensuring data accuracy and compliance with financial standards.
-- **Code Quality**: Conducting code reviews and maintaining robust documentation for ongoing projects.
 
 💻 **Daily Practice**
-
-I’m dedicated to improving my skills through:
-
 - Courses on Udemy/YouTube/Datacamp and others
 - Summarizing with ChatGPT/Gemini, reviewing documentation and reading books
 - Solving algorithm challenges (+300 resolved in Codewars/LeetCode)
-- Developing projects in Python, Java, and Rust
-- Currently studying front-end development with CSS, HTML, JS, TS and React
 
 🧑‍🎓 **Academic Background**
-
 - Mechatronics Technician - ETEC MLK (Dec/2017)
 - Computer Engineering - USJT (Jul/2024)
 
