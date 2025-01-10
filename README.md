@@ -9,7 +9,6 @@
 ![SQLite](https://img.shields.io/badge/sqlite-07405e?style=flat&logo=sqlite&logoColor=white)
 [![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)](https://www.microsoft.com/en-us/sql-server)
 ![DBeaver](https://img.shields.io/badge/dbeaver-2C2C32?style=flat&logo=dbeaver&logoColor=white)
-
 ![codewars](https://www.codewars.com/users/pedrohcleal/badges/small)
 ![leetcode](https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fpedrohcleal&logo=leetcode&logoColor=yellow)
 
