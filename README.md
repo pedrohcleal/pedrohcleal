@@ -13,7 +13,6 @@
 ![codewars](https://www.codewars.com/users/pedrohcleal/badges/small)
 ![leetcode](https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fpedrohcleal&logo=leetcode&logoColor=yellow)
 
-
 🖖 **Welcome!** 
 
 My work focuses on delivering robust, efficient, and scalable solutions for the financial sector. I specialize in Python, integrating advanced APIs and automating processes critical to data handling and validation.
@@ -23,11 +22,6 @@ My work focuses on delivering robust, efficient, and scalable solutions for the 
 - **Data Engineering**: Designing and optimizing SQL queries, modeling databases, and integrating complex financial data systems.
 - **Automation and Scraping**: Crafting automation scripts with Selenium and BeautifulSoup to streamline data extraction and processing.
 - **Data Validation and Processing**: Implementing ETL processes for fund management, ensuring data accuracy and compliance with financial standards.
-
-💻 **Daily Practice**
-- Courses on Udemy/YouTube/Datacamp and others
-- Summarizing with ChatGPT/Gemini, reviewing documentation and reading books
-- Solving algorithm challenges (+300 resolved in Codewars/LeetCode)
 
 🧑‍🎓 **Academic Background**
 - Mechatronics Technician - ETEC MLK (Dec/2017)
