@@ -2,6 +2,7 @@
 ![Java](https://img.shields.io/badge/java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Rust](https://img.shields.io/badge/rust-000000?style=flat&logo=rust&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Playwright](https://img.shields.io/badge/playwright-000000?style=flat&logo=playwright&logoColor=white&labelColor=green)
 ![Selenium](https://img.shields.io/badge/selenium-43B02A?style=flat&logo=selenium&logoColor=white)
 [![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-7D9EC2?style=flat&logoColor=white&logo=python)](https://www.crummy.com/software/BeautifulSoup/)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
