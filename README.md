@@ -24,8 +24,8 @@ My work focuses on delivering robust, efficient, and scalable solutions for the 
 - **Data Validation and Processing**: Implementing ETL processes for fund management, ensuring data accuracy and compliance with financial standards.
 
 🧑‍🎓 **Academic Background**
-- Mechatronics Technician - ETEC MLK (Dec/2017)
-- Computer Engineering - USJT (Jul/2024)
+- Mechatronics Technician - ETEC MLK
+- Computer Engineering - USJT
 
 **[My Github Page](https://pedrohcleal.github.io/)** | **[My Codewars Profile](https://www.codewars.com/users/pedrohcleal)** | **[My LeetCode Profile](https://leetcode.com/u/pedrohcleal/)**
 
