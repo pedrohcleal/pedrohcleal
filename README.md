@@ -18,10 +18,10 @@
 My work focuses on delivering robust, efficient, and scalable solutions for the financial sector. I specialize in Python, integrating advanced APIs and automating processes critical to data handling and validation.
 
 **🛠️ Key Skills**
-- **Backend Development**: API creation using FastAPI and Flask, following SOLID principles and applying best practices in clean architecture.
-- **Data Engineering**: Designing and optimizing SQL queries, modeling databases, and integrating complex financial data systems.
+- **Backend Development**: API creation using FastAPI and Flask, following **SOLID** principles and applying best practices in **clean architecture**.
+- **Data Engineering**: Designing and optimizing **SQL** queries, modeling databases, and integrating complex financial data systems.
 - **Automation and Scraping**: Crafting automation scripts with Selenium and BeautifulSoup to streamline data extraction and processing.
-- **Data Validation and Processing**: Implementing ETL processes for fund management, ensuring data accuracy and compliance with financial standards.
+- **Data Validation and Processing**: Implementing **ETL** processes for fund management, ensuring data accuracy and compliance with financial standards.
 
 🧑‍🎓 **Academic Background**
 - Mechatronics Technician - ETEC MLK
