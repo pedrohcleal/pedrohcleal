@@ -13,7 +13,7 @@
 ![codewars](https://www.codewars.com/users/pedrohcleal/badges/small)
 ![leetcode](https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fpedrohcleal&logo=leetcode&logoColor=yellow)
 
-🖖 **Welcome!** 
+🖖 **Welcome!**  
 
 My work focuses on delivering robust, efficient, and scalable solutions for the financial sector. I specialize in Python, integrating advanced APIs and automating processes critical to data handling and validation.
 
