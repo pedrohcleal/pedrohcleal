@@ -30,4 +30,4 @@ My work focuses on delivering robust, efficient, and scalable solutions for the 
 **[My Github Page](https://pedrohcleal.github.io/)** | **[My Codewars Profile](https://www.codewars.com/users/pedrohcleal)** | **[My LeetCode Profile](https://leetcode.com/u/pedrohcleal/)**
 
 ![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohcleal&layout=donut&theme=dark)
-![LeetCode Stats](https://leetcode-badge-showcase.vercel.app/api?username=pedrohcleal&theme=light))
+![LeetCode Stats](https://leetcode-badge-showcase.vercel.app/api?username=pedrohcleal&theme=light&animated=true))
