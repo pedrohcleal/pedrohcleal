@@ -11,7 +11,7 @@
 ![Pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![DBeaver](https://img.shields.io/badge/dbeaver-2C2C32?style=flat&logo=dbeaver&logoColor=white)
 ![codewars](https://www.codewars.com/users/pedrohcleal/badges/small)
-![leetcode](https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fpedrohcleal&logo=leetcode&logoColor=yellow)
+![leetcode]([https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fpedrohcleal&logo=leetcode&logoColor=yellow](https://leetcode-badge-showcase.vercel.app/api?username=pedrohcleal&theme=light))
 
 🖖 **Welcome!**  
 
