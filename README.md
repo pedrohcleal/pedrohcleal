@@ -11,7 +11,7 @@
 ![Pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![DBeaver](https://img.shields.io/badge/dbeaver-2C2C32?style=flat&logo=dbeaver&logoColor=white)
 ![codewars](https://www.codewars.com/users/pedrohcleal/badges/small)
-![leetcode](https://leetcode-badge-showcase.vercel.app/api?username=pedrohcleal&theme=light)
+![leetcode](https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fpedrohcleal&logo=leetcode&logoColor=yellow)
 
 🖖 **Welcome!**  
 
@@ -30,4 +30,4 @@ My work focuses on delivering robust, efficient, and scalable solutions for the 
 **[My Github Page](https://pedrohcleal.github.io/)** | **[My Codewars Profile](https://www.codewars.com/users/pedrohcleal)** | **[My LeetCode Profile](https://leetcode.com/u/pedrohcleal/)**
 
 ![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohcleal&layout=donut&theme=dark)
-![LeetCode Stats](https://leetcode-badge-showcase.vercel.app/api?username=pedrohcleal&theme=nightowl&border=no-border&animated=true)
+![LeetCode Stats](https://leetcode-badge-showcase.vercel.app/api?username=pedrohcleal&theme=light))
